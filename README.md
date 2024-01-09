@@ -3,7 +3,7 @@
 #### Technical Skills: R, SQL, Python, Tableau, Power BI, AWS, MATLAB
 
 ## Education
-- M.S., Business Analytics | University of California, Davis (Expected_June 2024_)
+- M.S., Business Analytics | University of California, Davis (_Expected_June 2024_)
 - B.S., Business Analytics | California State University, Sacramento (_May 2023_)
 
 ## Work Experience
