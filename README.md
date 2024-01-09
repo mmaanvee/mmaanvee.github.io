@@ -22,6 +22,5 @@ Optimized Tableau dashboards and data quality protocols for the Business Adminis
 - Collaborated in cross-functional collaboration with teams like Business Development and Finance to tailor KPIs, designing metrics customized for each team to drive growth and streamline operational effectiveness
 
 
-- [Graduate School Blog]- (https://medium.com/@maanvee.mehrotra111)
+[Graduate School Blog]- (https://medium.com/@maanvee.mehrotra111)
 
-- 
