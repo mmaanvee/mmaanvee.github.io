@@ -7,7 +7,7 @@
 - B.S., Business Analytics | California State University, Sacramento (_May 2023_)
 
 ## Work Experience
-**Data Analytics Intern @ Streamline Software Inc. (_Aug 2023 – Dec 2023_)**
+**Data Analytics Intern @ Streamline Software Inc. (_Aug 2023 – Jan 2024_)**
 
 Facilitated analytics and operations for Streamline, startup with a web platform for local government entities.
 - Enhanced CRM by 85% text-matching accuracy through strategic implementation of ETL methodologies and data engineering, using Python libraries like Levenshtein and Fuzzy Wuzzy.
