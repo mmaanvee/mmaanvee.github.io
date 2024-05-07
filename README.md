@@ -1,6 +1,6 @@
 # Maanvee Mehrotra 
 
-#### Technical Skills: R, SQL, Python, Tableau, Power BI, AWS, MATLAB
+#### Technical Skills: R, SQL, Python, Tableau, Power BI, AWS, MATLAB, TensorFlow, Neural Networks, PySpark
 
 ## Education
 - M.S., Business Analytics | University of California, Davis (_Expected June 2024_)
@@ -27,8 +27,11 @@ Optimized Tableau dashboards and data quality protocols for the Business Adminis
 - Contributed to a 30% improvement by supporting the implementation of data collection protocols, focusing on validating sources and minimizing missing or inaccurate data points.
 - Collaborated in cross-functional collaboration with teams like Business Development and Finance to tailor KPIs, designing metrics customized for each team to drive growth and streamline operational effectiveness
 
+**Blogs**
 
-Blogs 
-https://www.linkedin.com/pulse/interpreting-parameters-scalability-maanvee-mehrotra-q9gac/
-https://www.linkedin.com/pulse/demystifying-kalman-filter-maanvee-mehrotra-nrnlc/?trackingId=G4QiEf%2FNS9y0jIUBqpLo1w%3D%3D
-https://www.linkedin.com/pulse/understanding-nonlinear-regression-estimation-maanvee-mehrotra-dhhuc/?trackingId=G4QiEf%2FNS9y0jIUBqpLo1w%3D%3D
+- [Interpreting Parameters & Scalability](https://www.linkedin.com/pulse/interpreting-parameters-scalability-maanvee-mehrotra-q9gac/)
+- [Demystifying Kalman Filter](https://www.linkedin.com/pulse/demystifying-kalman-filter-maanvee-mehrotra-nrnlc/?trackingId=G4QiEf%2FNS9y0jIUBqpLo1w%3D%3D)
+- [Understanding Nonlinear Regression Estimation](https://www.linkedin.com/pulse/understanding-nonlinear-regression-estimation-maanvee-mehrotra-dhhuc/?trackingId=G4QiEf%2FNS9y0jIUBqpLo1w%3D%3D)
+- [Choosing the Perfect Graduate School: My Journey to UC Davis](https://medium.com/@maanvee.mehrotra111/choosing-the-perfect-graduate-school-my-journey-to-uc-davis-64b29f9cffe1)
+- [Linear Regression in Python](https://www.linkedin.com/pulse/linear-regression-python-maanvee-mehrotra-qbq2c/)
+- [Linear Regression Performance Metrics](https://www.linkedin.com/pulse/linear-regression-performance-metrics-maanvee-mehrotra-nkolc/)
